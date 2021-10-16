@@ -3,7 +3,6 @@ import {SafeAreaView, StyleSheet, ScrollView } from 'react-native'
 import Header from '../components/home/Header'
 import Post from '../components/home/Post'
 import Stories from '../components/home/Stories'
-import { POSTS } from '../data/Posts'
 
 
 const HomeScreen = () => {
