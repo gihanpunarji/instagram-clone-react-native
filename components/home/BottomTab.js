@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native'
+import { View, TouchableOpacity, StyleSheet, Image } from 'react-native'
 import { Divider } from 'react-native-elements'
 
 export const bottomTabIcons = [

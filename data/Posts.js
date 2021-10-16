@@ -45,7 +45,11 @@ export const POSTS = [
             {
             user: 'gihanpunarji',
             comment: 'Tesla Is awesome 😎😎',
-        }
+        },
+        {
+            user: 'kanchanachandimal',
+            comment: 'Congradulations',
+        },
         ],
     }
 ]
